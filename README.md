@@ -21,3 +21,4 @@ To Do:
 - Webpage Integration (PHP)
  - Migrate to Python (Personal Knowledge)
  
+- SQL Database
